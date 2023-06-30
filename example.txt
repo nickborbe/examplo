@@ -1,1 +1,3 @@
 Hello this is example .txt file it has only one line
+
+now it has another line
